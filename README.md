@@ -1,12 +1,10 @@
 <div align="center">
 
-![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0b0014,35:1a0933,70:4b1d8f,100:0b0014&height=220&section=header&text=rayonfent&fontSize=68&fontColor=ffffff&fontAlignY=38&desc=Informatics%20Engineering%20%7C%20Tech%20%7C%20Fashion%20%7C%20Outdoor&descAlignY=60&descSize=16&animation=fadeIn)
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:020005,25:080012,50:16002e,75:2a005c,100:020005&height=220&section=header&text=rayonfent&fontSize=68&fontColor=ffffff&fontAlignY=38&desc=Tech%20%7C%20Fashion%20%7C%20Running%20%7C%20Hiking&descAlignY=60&descSize=16&animation=fadeIn)
 
-### Informatics student who likes building things and learning new stuff.
-
-![Profile Views](https://komarev.com/ghpvc/?username=rayonfent&color=6f42c1&style=for-the-badge&label=Profile+Views)
-![Status](https://img.shields.io/badge/Status-Student-140a24?style=for-the-badge&labelColor=4b1d8f&color=140a24)
-![Interests](https://img.shields.io/badge/Interests-Tech%20%7C%20Fashion%20%7C%20Running%20%7C%20Hiking-140a24?style=for-the-badge&labelColor=2b124c&color=140a24)
+![Profile Views](https://komarev.com/ghpvc/?username=rayonfent&color=2a005c&style=for-the-badge&label=Profile+Views)
+![Status](https://img.shields.io/badge/Status-Student-080012?style=for-the-badge&labelColor=16002e)
+![Focus](https://img.shields.io/badge/Focus-Tech%20%2B%20Lifestyle-080012?style=for-the-badge&labelColor=2a005c)
 
 </div>
 
@@ -23,26 +21,20 @@ status     : Undergraduate Student
 interests  : tech, fashion, running, hiking
 ```
 
-I'm an Informatics Engineering student who likes building systems, learning how software works, and turning ideas into projects.
+I'm an Informatics Engineering student interested in software development, machine learning, web systems, and practical tech projects.
 
-Right now I'm interested in:
-- software development
-- machine learning and AI
-- decision support systems
-- web development
-- fashion and personal style
-- outdoor activities like running and hiking
+Outside of coding, I like fashion, running, and hiking.
 
 ---
 
-## What I'm Into
+## Interests
 
 - 💻 **Software Development** — building useful apps and systems
 - 🤖 **Machine Learning & AI** — classification, data processing, and model evaluation
-- 📊 **Decision Support Systems** — ranking, scoring, and data-driven recommendations
-- 🎨 **Fashion** — outfits, styling, sneakers, and visual identity
+- 📊 **Decision Support Systems** — ranking, scoring, and recommendation logic
+- 🎨 **Fashion** — outfits, sneakers, styling, and clean visual presentation
 - 🏃 **Running** — staying active and building consistency
-- 🥾 **Hiking** — enjoying nature, exploring places, and getting offline for a while
+- 🥾 **Hiking** — exploring places and taking a break from screens
 
 ---
 
@@ -50,16 +42,16 @@ Right now I'm interested in:
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-140a24?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-140a24?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-140a24?style=for-the-badge&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/React-140a24?style=for-the-badge&logo=react&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-140a24?style=for-the-badge&logo=fastapi&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-140a24?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-140a24?style=for-the-badge&logo=postgresql&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-140a24?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Git](https://img.shields.io/badge/Git-140a24?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-140a24?style=for-the-badge&logo=linux&logoColor=white)
+![Python](https://img.shields.io/badge/Python-080012?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-080012?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-080012?style=for-the-badge&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-080012?style=for-the-badge&logo=react&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-080012?style=for-the-badge&logo=fastapi&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-080012?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-080012?style=for-the-badge&logo=postgresql&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-080012?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Git](https://img.shields.io/badge/Git-080012?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-080012?style=for-the-badge&logo=linux&logoColor=white)
 
 </div>
 
@@ -69,31 +61,49 @@ Right now I'm interested in:
 
 - improving programming fundamentals
 - building cleaner and more structured projects
-- learning more about machine learning workflows
-- exploring design and presentation in a simple way
-- balancing tech interests with fashion and outdoor hobbies
+- learning machine learning workflows
+- improving UI and project presentation
+- balancing tech, fashion, running, and hiking
 
 ---
 
-## Fashion Interest
+## GitHub Stats
 
-Fashion is one of my personal interests outside tech. I like casual outfits, sneakers, layering, and simple looks that still feel clean.
+<div align="center">
 
-Some things I enjoy:
-- outfit composition
-- streetwear and casual styling
-- sneakers
-- neutral, earthy, and dark-toned color palettes
-- personal branding and visual presentation
+<picture>
+  <source
+    srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rayonfent&show_icons=true&hide_border=true&theme=midnight-purple"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rayonfent&show_icons=true&hide_border=true&theme=midnight-purple"
+    height="165"
+    alt="GitHub Stats"
+  />
+</picture>
 
----
+<picture>
+  <source
+    srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rayonfent&layout=compact&hide_border=true&theme=midnight-purple"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rayonfent&layout=compact&hide_border=true&theme=midnight-purple"
+    height="165"
+    alt="Top Languages"
+  />
+</picture>
 
-## Outdoor Interest
+<br/>
+<br/>
 
-Besides being on my laptop, I also like activities that get me moving.
+<img
+  src="https://github-readme-streak-stats.herokuapp.com?user=rayonfent&theme=midnight-purple&hide_border=true"
+  alt="GitHub Streak"
+/>
 
-- **Running** helps me stay consistent and clear my head.
-- **Hiking** gives me a break from screens and lets me enjoy new places and scenery.
+</div>
 
 ---
 
@@ -106,23 +116,7 @@ Besides being on my laptop, I also like activities that get me moving.
 | Machine Learning | classification, clustering, and evaluation |
 | Databases | SQL, ERD, and relational design |
 | UI/UX | cleaner layouts and readable interfaces |
-| Personal Interests | fashion, running, and hiking |
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rayonfent&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayonfent&layout=compact&theme=midnight-purple&hide_border=true&langs_count=6" height="165" alt="Top languages" />
-
-<br/>
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=rayonfent&theme=midnight-purple&hide_border=true" alt="GitHub streak" />
-
-</div>
+| Lifestyle | fashion, running, and hiking |
 
 ---
 
@@ -130,8 +124,8 @@ Besides being on my laptop, I also like activities that get me moving.
 
 <div align="center">
 
-![GitHub](https://img.shields.io/badge/GitHub-rayonfent-140a24?style=for-the-badge&logo=github&logoColor=white)
-![Focus](https://img.shields.io/badge/Focus-Tech%20%7C%20Fashion%20%7C%20Outdoor-2b124c?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-rayonfent-080012?style=for-the-badge&logo=github&logoColor=white)
+![Style](https://img.shields.io/badge/Style-Dark%20Purple%20%2B%20Black-16002e?style=for-the-badge)
 
 </div>
 
@@ -139,8 +133,6 @@ Besides being on my laptop, I also like activities that get me moving.
 
 <div align="center">
 
-Thanks for visiting.
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0b0014,35:1a0933,70:4b1d8f,100:0b0014&height=120&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:020005,25:080012,50:16002e,75:2a005c,100:020005&height=120&section=footer)
 
 </div>
