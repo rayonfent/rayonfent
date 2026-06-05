@@ -1,12 +1,10 @@
 <div align="center">
 
-### 👋 Hi, I'm **@rayonfent**
-
-*Informatics Engineering Student · Builder · Future Billionaire (maybe)*
-
----
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=rayonfent&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Informatics%20Engineering%20%7C%20Builder%20%7C%20Future%20Billionaire&descAlignY=60&descSize=16&animation=fadeIn)
 
 </div>
+
+---
 
 ## 🧠 About Me
 
@@ -48,11 +46,12 @@ fun_fact    : i love money 💸
 
 <div align="center">
 
-![Ray's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rayonfent&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=rayonfent&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayonfent&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rayonfent&layout=compact&theme=tokyonight&hide_border=true)
+<br/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=rayonfent&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=rayonfent&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
 </div>
 
@@ -64,7 +63,7 @@ fun_fact    : i love money 💸
 "Work smarter, not harder.
  Then work smarter AND harder.
  Then get paid."
- 
+
                         — @rayonfent, probably
 ```
 
@@ -75,5 +74,7 @@ fun_fact    : i love money 💸
 *If you're reading this and you have money, you know what to do.* 💰
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=rayonfent&color=brightgreen&style=flat-square&label=Profile+Views)
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer)
 
 </div>
