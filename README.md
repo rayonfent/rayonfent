@@ -1,10 +1,16 @@
+<!--
+IMPORTANT:
+GitHub stats images only work when `username=` uses your exact public GitHub username.
+If your GitHub username is not "rayonfent", replace every `username=rayonfent` and `user=rayonfent` below.
+-->
+
 <div align="center">
 
-![banner](https://capsule-render.vercel.app/api?type=waving&color=0:020005,25:080012,50:16002e,75:2a005c,100:020005&height=220&section=header&text=rayonfent&fontSize=68&fontColor=ffffff&fontAlignY=38&desc=Tech%20%7C%20Fashion%20%7C%20Running%20%7C%20Hiking&descAlignY=60&descSize=16&animation=fadeIn)
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:030006,50:0b0014,72:16002e,100:000000&height=220&section=header&text=rayonfent&fontSize=68&fontColor=ffffff&fontAlignY=38&desc=Tech%20%7C%20Fashion%20%7C%20Running%20%7C%20Hiking&descAlignY=60&descSize=16&animation=fadeIn)
 
-![Profile Views](https://komarev.com/ghpvc/?username=rayonfent&color=2a005c&style=for-the-badge&label=Profile+Views)
-![Status](https://img.shields.io/badge/Status-Student-080012?style=for-the-badge&labelColor=16002e)
-![Focus](https://img.shields.io/badge/Focus-Tech%20%2B%20Lifestyle-080012?style=for-the-badge&labelColor=2a005c)
+![Profile Views](https://komarev.com/ghpvc/?username=rayonfent&color=16002e&style=for-the-badge&label=Profile+Views)
+![Status](https://img.shields.io/badge/Status-Student-05000a?style=for-the-badge&labelColor=16002e)
+![Focus](https://img.shields.io/badge/Focus-Tech%20%2B%20Lifestyle-05000a?style=for-the-badge&labelColor=0b0014)
 
 </div>
 
@@ -42,16 +48,16 @@ Outside of coding, I like fashion, running, and hiking.
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-080012?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-080012?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-080012?style=for-the-badge&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/React-080012?style=for-the-badge&logo=react&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-080012?style=for-the-badge&logo=fastapi&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-080012?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-080012?style=for-the-badge&logo=postgresql&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-080012?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Git](https://img.shields.io/badge/Git-080012?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-080012?style=for-the-badge&logo=linux&logoColor=white)
+![Python](https://img.shields.io/badge/Python-05000a?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-05000a?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-05000a?style=for-the-badge&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-05000a?style=for-the-badge&logo=react&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-05000a?style=for-the-badge&logo=fastapi&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-05000a?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-05000a?style=for-the-badge&logo=postgresql&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-05000a?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Git](https://img.shields.io/badge/Git-05000a?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-05000a?style=for-the-badge&logo=linux&logoColor=white)
 
 </div>
 
@@ -71,36 +77,36 @@ Outside of coding, I like fashion, running, and hiking.
 
 <div align="center">
 
-<picture>
-  <source
-    srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rayonfent&show_icons=true&hide_border=true&theme=midnight-purple"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rayonfent&show_icons=true&hide_border=true&theme=midnight-purple"
-    height="165"
-    alt="GitHub Stats"
-  />
-</picture>
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rayonfent&theme=github_dark"
+  width="100%"
+  alt="GitHub Profile Details"
+/>
 
-<picture>
-  <source
-    srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rayonfent&layout=compact&hide_border=true&theme=midnight-purple"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rayonfent&layout=compact&hide_border=true&theme=midnight-purple"
-    height="165"
-    alt="Top Languages"
-  />
-</picture>
-
-<br/>
 <br/>
 
 <img
-  src="https://github-readme-streak-stats.herokuapp.com?user=rayonfent&theme=midnight-purple&hide_border=true"
-  alt="GitHub Streak"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rayonfent&theme=github_dark"
+  height="170"
+  alt="GitHub Stats"
+/>
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rayonfent&theme=github_dark"
+  height="170"
+  alt="Repos per Language"
+/>
+
+<br/>
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rayonfent&theme=github_dark"
+  height="170"
+  alt="Most Commit Language"
+/>
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rayonfent&theme=github_dark&utcOffset=7"
+  height="170"
+  alt="Productive Time"
 />
 
 </div>
@@ -124,8 +130,8 @@ Outside of coding, I like fashion, running, and hiking.
 
 <div align="center">
 
-![GitHub](https://img.shields.io/badge/GitHub-rayonfent-080012?style=for-the-badge&logo=github&logoColor=white)
-![Style](https://img.shields.io/badge/Style-Dark%20Purple%20%2B%20Black-16002e?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-rayonfent-05000a?style=for-the-badge&logo=github&logoColor=white)
+![Style](https://img.shields.io/badge/Style-Very%20Dark%20Purple%20%2B%20Black-16002e?style=for-the-badge)
 
 </div>
 
@@ -133,6 +139,6 @@ Outside of coding, I like fashion, running, and hiking.
 
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:020005,25:080012,50:16002e,75:2a005c,100:020005&height=120&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:030006,50:0b0014,72:16002e,100:000000&height=120&section=footer)
 
 </div>
